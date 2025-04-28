@@ -12,7 +12,7 @@ const Navbar = () => {
     return (
         <nav onMouseOver={handleSubmenu}>
             <div className='nav-center'>
-                <h3 className='logo'>strapi</h3>
+                <h3 className='logo'><a href="https://www.linkedin.com/in/vidyasagar-akhumukhi/" className='logo'>strapi</a></h3>
                 <button className='toggle-btn' onClick={openSidebar}>
                     <FaBars />
                 </button>
