@@ -18,7 +18,7 @@ This project implements a responsive navigation system inspired by Strapi's UI, 
 
 ## 🚀 Live Demo
 
-[Link to Live Demo]()
+[Link to Live Demo](https://submenusstrapinoto.netlify.app/)
 
 ## 🛠️ Technologies Used
 
